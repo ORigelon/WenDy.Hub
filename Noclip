@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ORigelon/WenDy.Hub/main/.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ORigelon/WenDy.Hub/main/.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ORigelon/WenDy.Hub/main/Noclip"))()
